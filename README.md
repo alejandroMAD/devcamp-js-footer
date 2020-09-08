@@ -5,13 +5,13 @@
 Install with the command:
 
 ```
-npm install --save devcamp-js-footer
+npm install --save alejandro-devcamp-js-footer
 ```
 
 Add to a JavaScript Project with the following code:
 
 ```javascript
-import { footer } from 'devcamp-js-footer';
+import { footer } from 'alejandro-devcamp-js-footer';
 
 footer('Some Name');
 ```
